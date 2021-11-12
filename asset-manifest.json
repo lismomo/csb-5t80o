@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lismomo.github.io/csb-5t80o/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://lismomo.github.io/csb-5t80o/static/js/main.bb25b0c1.chunk.js",
+    "main.js.map": "https://lismomo.github.io/csb-5t80o/static/js/main.bb25b0c1.chunk.js.map",
+    "runtime-main.js": "https://lismomo.github.io/csb-5t80o/static/js/runtime-main.5f795378.js",
+    "runtime-main.js.map": "https://lismomo.github.io/csb-5t80o/static/js/runtime-main.5f795378.js.map",
+    "static/js/2.9f8823ee.chunk.js": "https://lismomo.github.io/csb-5t80o/static/js/2.9f8823ee.chunk.js",
+    "static/js/2.9f8823ee.chunk.js.map": "https://lismomo.github.io/csb-5t80o/static/js/2.9f8823ee.chunk.js.map",
+    "index.html": "https://lismomo.github.io/csb-5t80o/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://lismomo.github.io/csb-5t80o/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.9f8823ee.chunk.js.LICENSE.txt": "https://lismomo.github.io/csb-5t80o/static/js/2.9f8823ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f795378.js",
+    "static/js/2.9f8823ee.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.bb25b0c1.chunk.js"
+  ]
+}
